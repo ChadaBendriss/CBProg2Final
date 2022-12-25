@@ -1,4 +1,4 @@
-Prog2 folder contains Java classes.
+
 
 Exp1:
 
